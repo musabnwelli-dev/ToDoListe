@@ -9,6 +9,13 @@ Einfache ToDo-Anwendung mit GUI: Aufgaben anlegen, abhaken, zeitlich begrenzen, 
 - Abgelaufene ToDos werden beim Start entfernt
 - Persistenz in ,,todo-savefile.txt''
 
+  ## Screenshoots
+  
+  ### ToDo-Liste mit Einträgen
+  ![Liste](https://github.com/musabnwelli-dev/ToDoListe/blob/e7398421109d963ecd3b1f881192eb8c55b36875/docs/images/docs/images/list.png)
+
+
+
 ## 🚀 Build & Run
 ```bash
 javac -d out src/de/musab/todo/*.java
